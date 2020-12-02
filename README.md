@@ -1,6 +1,8 @@
 # IAL-620-and-IAL-621-Project
 web scraping and text analytics
 
+A PDF of the rmarkdown file output is included. It is best viewed on a larger screen.
+
 The markdown file utilizes the Mercola Final CSV Folder to load csv files with scraped text. The functions file should also be used along with the markdown file.
 
 The facebook csv and the twitter csv may be included along with the markdown file and functions file without being placed in a folder.
